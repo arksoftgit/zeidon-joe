@@ -4,7 +4,7 @@
   },
   "OIs" : [ {
     ".oimeta" : {
-      "application" : "epamms",
+      "application" : "ePammsDKS",
       "odName" : "mSPLDef",
       "incremental" : true,
       "totalRootCount" : 1
